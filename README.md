@@ -1,4 +1,4 @@
-# Introduction
+# Introductio - testing
 Wazimap-NG is the next version of [Wazimap](http://www.wazimap.co.za). It provides a platform for users to bind tabular data to spatial boundaries in order create curated views of datasets. Yes - that's probably too vague a description to understand what it is. Hopefully the images below provide a better description:
 
 <a href="https://postimg.cc/G8XkZRhV" target="_blank"><img src="https://i.postimg.cc/G8XkZRhV/Screen-Shot-2020-09-27-at-09-50-00.png" alt="Screen-Shot-2020-09-27-at-09-50-00"/></a> <a href="https://postimg.cc/MM67PHx1" target="_blank"><img src="https://i.postimg.cc/MM67PHx1/Screen-Shot-2020-09-27-at-09-50-33.png" alt="Screen-Shot-2020-09-27-at-09-50-33"/></a><br/><br/>
